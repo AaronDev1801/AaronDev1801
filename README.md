@@ -6,6 +6,10 @@ Ingeniero novato en busqueda de conocimiento/Novice engineer in search of knowle
 
 Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir aprendiendo nuevas tecnologias, encontrar trabajo y competir en eventos de tecnologia. / I am a young engineer about to graduate from university, eager to keep learning new technologies, find a job, and compete in technology events.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd4Z2t6ZWZ6YXp4d29wN2s2ajByNWN4eDlieTR2cjI1cmd2MDEzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQTh6nX4fS/giphy.gif" width="100%">
+</p>
+
 * 🌍  I'm based in Nicaragua
 * ✉️  You can contact me at [aaronjimenezr2004@gmail.com](mailto:aaronjimenezr2004@gmail.com)
 * 🧠  I'm currently learning Angular, Springboot, SASS & Oracle
