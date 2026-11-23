@@ -9,8 +9,8 @@ Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir a
 * 🌍  Estoy en Nicaragua
 * ✉️  Puedes contactarme atraves de [aaronjimenezr2004@gmail.com](mailto:aaronjimenezr2004@gmail.com)
 * 🧠  Estoy aprendiendo Angular, Springboot, SASS & Oracle
-* 👥  Estoy interesado en proyectos informales o gigs / Informal projects or gigs
-* 💬  Aprendo más traveseando, experimentando y viendo, en lugar de leyendo. / I learn more by messing around, experimenting, and observing, rather than by reading.
+* 👥  Estoy interesado en proyectos informales o gigs
+* 💬 Aprendo más traveseando, experimentando y viendo, en lugar de leyendo. Lo que más domino es C#
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff00ff,100:8a2be2&height=120&section=header"/>
