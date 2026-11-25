@@ -2,41 +2,86 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=AaronDev1801&fontSize=65&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,20,24,25,30"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Software+Developer;Oracle+Database+Enthusiast;C%23+Developer;Always+Learning+New+Technologies"/>
+</p>
 
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me conocen como AaronDev1801
-=====================================================================================================================================
+<h1 align="center">
+Hola 👋 soy AaronDev1801
+</h1>
 
-Ingeniero novato en busqueda de conocimiento
------------------------------------------------------------------------------------
+<h3 align="center">
+Ingeniero novato en búsqueda de conocimiento
+</h3>
 
-Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir aprendiendo nuevas tecnologias, encontrar trabajo y competir en eventos de tecnologia.
+Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir aprendiendo nuevas tecnologías, encontrar trabajo y competir en eventos de tecnología.
 
-* 🌍  Estoy en Nicaragua
-* ✉️  Puedes contactarme atraves de [aaronjimenezr2004@gmail.com](mailto:aaronjimenezr2004@gmail.com)
-* 🧠  Estoy aprendiendo Angular, Springboot, SASS & Oracle
-* 👥  Estoy interesado en proyectos informales o gigs
-* 💬 Aprendo más traveseando, experimentando y viendo, en lugar de leyendo. Lo que más domino es C#
+## 🌎 Acerca de mí
+
+- 🌍 Estoy en Nicaragua
+- ✉️ Contacto: **aaronjimenezr2004@gmail.com**
+- 🧠 Aprendiendo Angular, Spring Boot, SASS y Oracle
+- 👥 Interesado en proyectos informales o gigs
+- 💬 Aprendo más experimentando y construyendo que leyendo documentación
+- 💻 Mi lenguaje más fuerte es C#
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff00ff,100:8a2be2&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=12,20,24,25,30"/>
 </p>
 
-<b>
-  Habilidades
-  <p><img src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="40"></p>
-</b>
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
+<h2 align="center">
+⚡ Skills & Technologies ⚡
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,spring,kotlin,js,python,vscode,html,angular,css,sass,react,nodejs,fastapi,oracle,postgres,supabase,figma,wordpress" />
 </p>
 
-<b>Mis Stats</b>
+---
 
-<a href="http://www.github.com/AaronDev1801"><img src="https://github-readme-stats.vercel.app/api?username=AaronDev1801&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=6366f1&bg_color=27272a&hide_border=true&show_icons=true" alt="AaronDev1801's GitHub stats" /></a>
+## 🚀 Current Focus
 
-<a href="https://github.com/AaronDev1801" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDev1801&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- Angular
+- Spring Boot
+- Oracle Database
+- Arquitectura de Software
+- Desarrollo Full Stack
 
-![Snake animation](https://github.com/AaronDev1801/AaronDev1801/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=12,20,24,25,30"/>
+</p>
 
-### Socials
+## 📊 GitHub Stats
 
-<p align="left"> <a href="https://discord.com/users/.aaron1801" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.github.com/AaronDev1801" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p> <a href="https://instagram.com/aaron1801z" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram" /> </a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AaronDev1801&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDev1801&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AaronDev1801/AaronDev1801/output/github-contribution-grid-snake.svg"/>
+</p>
+
+## 🌐 Socials
+
+<p align="center">
+
+<a href="https://github.com/AaronDev1801">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/.aaron1801">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/aaron1801z">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
+</p>
