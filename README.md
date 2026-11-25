@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Software+Developer;Oracle+Database+Enthusiast;C%23+Developer;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Desarrollador+Fullstack;Entusiasta+de+Hackathons;C%23+Dev;Siempre+Buscando+Conocimiento"/>
 </p>
 
 <h1 align="center">
@@ -30,7 +30,7 @@ Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir a
 </p>
 
 <h2 align="center">
-⚡ Skills & Technologies ⚡
+⚡ Skills ⚡
 </h2>
 
 <p align="center">
@@ -46,6 +46,7 @@ Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir a
 - Oracle Database
 - Arquitectura de Software
 - Desarrollo Full Stack
+- En busca de competencias
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=12,20,24,25,30"/>
@@ -58,7 +59,7 @@ Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir a
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDev1801&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AaronDev1801/AaronDev1801/output/github-contribution-grid-snake.svg"/>
