@@ -59,12 +59,6 @@ Soy un joven ingeniero a punto de salir de la universidad, con ganas de seguir a
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDev1801&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🐍 Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AaronDev1801/AaronDev1801/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ## 🌐 Socials
 
 <p align="center">
